@@ -1,5 +1,6 @@
 from node import Node
 # Dla chętnych insert, lookup (przeszukiwanie listy), sortowanie
+# Lista dwukierunkowa (Node będzie z dwoma linkami)
 
 
 class LinkedList:
